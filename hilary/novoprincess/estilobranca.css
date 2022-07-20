@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@700&display=swap');
+@font-face {
+    font-family: 'The Nautigal';
+    src: url(https://fonts.gstatic.com/s/thenautigal/v3/VdGGAZ8ZH51Lvng9fQV2bfKTWypw0_WD3Lo.woff2) format('woff2'),
+     url(https://fonts.gstatic.com/s/thenautigal/v3/VdGGAZ8ZH51Lvng9fQV2bfKTWypw0vWD3Lo.woff2) format('woff2'),
+     url(https://fonts.gstatic.com/s/thenautigal/v3/VdGGAZ8ZH51Lvng9fQV2bfKTWypw3PWD.woff2) format('woff2');
+}
+h1{
+    
+    font-size: 125px;
+    padding-left: 2%;
+    margin-top: 0%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    color: rgb(247, 228, 62);
+    font-family:'The Nautigal', cursive;
+    margin-bottom: 0%;
+    background-color: rgb(222, 179, 226);
+    position: relative;
+    text-shadow: 2px 2px rgb(119, 10, 119);
+}
+.pri{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+}
+body{
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+    background-color: rgb(244, 238, 245);   
+}
+html, body{
+    min-height: 100%;
+}
+ul.h{
+    position: relative;
+    top: -47px;
+    display: flex;
+    justify-content: stretch;
+  list-style-type: none;
+
+}
+nav ul li {
+    margin-right: 1em;
+    padding: 0.25em 1em;
+    background-color: #fff6;
+    flex: 1;
+    text-align: center;
+  }
+  ul a {  
+    color: rgb(234, 0, 255);
+    text-decoration: none;
+    font-family:'The Nautigal', cursive;
+  }
+  #icone{
+    position: absolute;
+    top: 130px;
+    left: 900px;
+  }
+  main{
+    background-color: rgb(245, 205, 233);
+    margin-left: 15%;
+    margin-right: 30%;
+    border-radius: 10px;
+    margin-bottom: 0%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
+  #nome{
+   font-family:'The Nautigal', cursive;
+    color:rgb(234, 0, 255);
+    font-size: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin: 0%;
+  }
+  #branca1{
+    float: right;
+    border-radius: 10px;
+    width:200px;
+    height: 361px;
+    padding-top: 10px;
+  }
+  main p{
+    font-family:'The Nautigal', cursive;
+    padding-top: 0px;
+  }
+  #branca2{
+      width: 300px;
+      float: left;
+      height: 200.98px;
+      padding-right: 10px;
+      border-radius: 10%;
+  }
+  li :hover{
+    color: rgb(119, 10, 119);
+  }
+  p{
+    text-align: justify;
+  }
+  #video{
+    position: absolute;
+    top: 300px;
+    right: 20px;
+  }
